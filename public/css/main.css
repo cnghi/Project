@@ -1,0 +1,59 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+}
+
+#page {
+    background-color: #a0e3f277;
+}
+
+/* header-------------------------------------------------------------------- */
+#header {
+    background: url('../image/view/background.jpg');
+    background-size: cover;
+    /* -webkit-radial-gradient(right,
+            #00a7cc, #a0e3f277); */
+}
+
+.name-shop {
+    background-color: black;
+    color: white;
+}
+
+
+.nav-css {
+    background-color: #59D9CC;
+    font-weight: 600;
+}
+
+a {
+    color: black !important;
+}
+
+.nav-css>a,
+div.link-css {
+    font-size: 20px;
+}
+
+.nav-css>a:hover,
+div.link-css:hover {
+    color: #324ff1;
+    background-color: #F4DCD6;
+}
+
+.img-css {
+    width: 200px;
+    height: 200px;
+}
+
+/* header-------------------------------------------------------------------- */
+/* footer-------------------------------------------------------------------- */
+#footer {
+    background:
+        -webkit-radial-gradient(top, #a0e3f277,
+            #00a7cc);
+}
+
+/* footer-------------------------------------------------------------------- */
